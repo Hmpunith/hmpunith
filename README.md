@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a final-year BCA student with hands-on experience in **Cloud Computing (AWS/GCP)**, **AI/ML Workflows**, and **Full-Stack Development**. I specialize in building, containerizing, and deploying intelligent web applications. I've actively participated in multiple hackathons, winning 5 first-place prizes in inter-collegiate technical competitions.
+BCA Graduate with hands-on experience in **Cloud Computing (AWS/GCP)**, **AI/ML Workflows**, and **Full-Stack Development**. I specialize in building, containerizing, and deploying intelligent web applications. I've actively participated in multiple hackathons, winning 5 first-place prizes in inter-collegiate technical competitions.
 
 - ☁️ **Currently focused on:** AWS, Google Cloud Run, and Serverless Architectures.
 - 🤖 **Building with:** Google Gemini, Local LLMs (Ollama), Multi-Agent Systems.
