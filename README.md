@@ -27,7 +27,7 @@
 ## 🏅 Certifications & Credentials
 
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/punithhm-0750/credentials/66c32abe52201424"><img style="display:block" src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure Administrator Associate"/></a>
+  <a href="https://learn.microsoft.com/en-us/users/hmpunith/credentials/66c32abe52201424"><img style="display:block" src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure Administrator Associate"/></a>
 </p>
 
 <p align="left">
